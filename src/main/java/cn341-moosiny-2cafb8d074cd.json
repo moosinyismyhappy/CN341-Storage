@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "cn341-moosiny",
-  "private_key_id": "2cafb8d074cd901ba781883aa3a60874d9e325c0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiEjq4vg1CVIrO\nJurOSE5a03WeQWopSaid2Scc1eUT8clMMaPU2zoJe3NtPm4Yae60zdF8vAp2ozb3\nc3UzCY5AdEs9gSMQkOlj2K3VqUSDlwrMCSc8RgD5wfqJ50+75hZ2MdsQxlm9cAj6\nMDIuvTRwbKybNNCLA9tCr1MF6oLHf5KXmVY6QwrdzMY7bvBWfz+ltBWecl1c2JE5\nZ2ofxXvWldJ5r+5uyZ1diXJJM1zG5vgSVvA5h7z9RRu3b4gG/pBBHr6nRwKNvfrb\nyMxsQxe4jPOV4oJrgsAP4H9jhSAUGGQA9ZnasnpS+4htU4ki74cbZum5FyRbHw8h\nHVG9jP2RAgMBAAECggEAAd+PETKVKaabgh1+CktYqIEYM2+TIA4LZmOrqZApWS0q\nw/gw6hVsms5z+5fEowCaczmLydLMlil1ya9qc+AQ5lrRwdC7zIW4ROCsxbLyqUi2\nJbyXWQGAImLlF/H2AHh82vnhi9SXFfL1D5s+AT9Lm18OMa8PGAQ/5Qnsvj1DLLYe\niRuxl68Ga8rI4+CFtywNR3JUMxH0s7OSlqxDgi/FbBWRdfJ09ynVye66LCSo1rZe\npFTPGzZbVWjMKqLID4j3sHV3Df01HTg+zXKwgih+Fwn0+IDGm7K7mNFBIGrm+3Z+\nrQXewc3dARIGu/xjgfu6mFV7eyNInxOYwOupxelmBwKBgQDj4P/hD1KM6h8h4qcu\njVtHYD2tT/lOa3F0fkwsWJ4uOT3z3be+VAlkHB7sp/3VvFrqyVXO/yFciZKLi9X4\nET5rv1yN7F5a4CTSzFH5dEud3Ik1Vkw06gSUowfHhGHZzU1xC7XiiTxauwAVP8P5\neRPfOzZHlEtgKwHzUhSIJB/3XwKBgQC2EkbCmb+fTVXhoXhOek6RiK3IUczHaZ8d\nUuXIhldBf0TCjc2ioVLpaHHApX2EjMIBOErTJ1FoeQ95jMd1J5bWIGAt33z7WKZ/\nhm01BtYai7wX/RiL3foZU+Nh+SaE1/OgJ0Ag3q94qrp1tWBrNS8alv8viWqvnrhJ\nbTmObp3hDwKBgBJgYaIfnzOX6bzMz1iUs6i03SRtz5gAWBzh1ni5CMCHgzR4S8oA\ncuVs0x2YioLC9r36UH4p2uHggj3Yn/+qPFNqEieryQwhCTcqnO218Cch0rrHY8vc\nl1P5NbZkOZPb14PnQtqq4IAclmwgQUiL+AtHdiAdmFp//V9G3jsAVseXAoGACLLI\n1KU5xWeRcc0gDUfElylbfBWEXgaKxoDeX30jkAp/g3f42gsxBduqi5SccYe0ARDq\najoXppEaDymNoeg5SZOUZLynoO50TeVjNERWWEBSxSafVJdPSoR6eYTItVIH3p/h\nbXCWG4K0k8kNiTGqRW/vUxsSkL9ZeJCSTl60hjsCgYAVFrMz4wUfYnIkHCASYfg+\nmpiqX7owqrxNKXuYutkqweMkiDvbK7OU2orEut29EksHm+H3rpRkfX2ebcD8kOz3\nnSd5xgQFZTwBvEmpIbnJGWSuf1kSKYE+FNO5wqlDkXoiLhnFZCPm2Bk7Cw/Anlwe\ndbb+VOoB6zxDwlE6pp9NTA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "cn341-moosiny-storage@cn341-moosiny.iam.gserviceaccount.com",
-  "client_id": "115363942296747918670",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cn341-moosiny-storage%40cn341-moosiny.iam.gserviceaccount.com"
-}
+
